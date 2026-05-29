@@ -1,0 +1,6 @@
+{
+  "name": "Hybrid Industrial Monitor Playground",
+  "description": "Real-time industrial SQL and MongoDB telemetry database playground with predictive scripts code editor and Gemini analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
