@@ -1,12 +1,23 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
+## 🚀 Production Management System ⚙️📦
 
-# Run and deploy your AI Studio app
+The **Production Management System** is a web-based platform developed to simplify and optimize manufacturing operations through a centralized and user-friendly interface. It enables organizations to efficiently manage production activities, monitor inventory, track orders, and analyze operational performance in real time. By automating routine processes and providing actionable insights, the system helps improve productivity, reduce operational delays, and support data-driven decision-making. 📊✨
 
-This contains everything you need to run your app locally.
+### 🔹 Key Functions
 
-View your app in AI Studio: https://ai.studio/apps/09cf69a7-27a8-4e14-a3a9-9d58b42baedb
+* 🏭 **Production Management** – Create, schedule, and track production tasks.
+* 📦 **Inventory Monitoring** – Manage raw materials and finished goods inventory.
+* 📋 **Order Tracking** – Monitor customer orders and production status.
+* 📊 **Dashboard & Analytics** – Visualize key production metrics and performance indicators.
+* 👥 **Workforce Management** – Assign tasks and monitor workforce productivity.
+* 🔔 **Real-Time Updates** – Receive instant updates on production progress and inventory changes.
+* 📈 **Reporting System** – Generate operational and production reports for analysis.
+* 📱 **Responsive Interface** – Accessible across desktop, tablet, and mobile devices.
+
+🌐 **Project URL:**
+https://production-management-seven.vercel.app/
+
+✨ *A smart solution for enhancing manufacturing efficiency, improving resource utilization, and streamlining production workflows.* ⚙️🚀📈
+
 
 ## Run Locally
 
